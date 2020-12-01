@@ -1,9 +1,8 @@
 # Flutter Unit Converter
 
 Bangla Futter Tutorial
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/BlTgaznwl3w" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
+[![Flutter Course in Bangla](https://img.youtube.com/vi/BlTgaznwl3w/0.jpg)](https://www.youtube.com/watch?v=BlTgaznwl3w)
 
 ## Getting Started
 
