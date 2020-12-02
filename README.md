@@ -1,6 +1,6 @@
 # Flutter Unit Converter
 
-Bangla Futter Tutorial
+A Simple Flutter demonstration project that Converts unit to another metric unit. The project is a demonstration only you can find the tutorial in Bengal Coder YT Chanel. 
 
 [![Flutter Course in Bangla](https://img.youtube.com/vi/BlTgaznwl3w/0.jpg)](https://www.youtube.com/watch?v=BlTgaznwl3w)
 
